@@ -68,7 +68,7 @@ kas-sederhana/
 **1. Clone repository**
 ```bash
 git clone https://github.com/Fabyan-Aktrinaldi/Kas_Sederhana_KLP6.git
-cd kas-sederhana
+cd Kas_Sederhana_KLP6
 ```
 
 **2. Jalankan Docker**
